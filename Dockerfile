@@ -1,7 +1,9 @@
-FROM mcr.microsoft.com/dotnet/aspnet:9.0
+FROM mcr.microsoft.com/dotnet/runtime:6.0
 
 WORKDIR /app
 
 COPY . .
 
-CMD ["dotnet", "ArchiSteamFarm.dll"]
+RUN chmod +x ./start.sh
+
+CMD ["./start.sh"]

@@ -1,3 +1,3 @@
 #!/bin/bash
-
-dotnet ./ArchiSteamFarm.dll
+cd /app
+dotnet ArchiSteamFarm.dll
