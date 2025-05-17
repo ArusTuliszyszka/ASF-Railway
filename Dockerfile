@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/runtime:9.0-preview
+FROM mcr.microsoft.com/dotnet/runtime:8.0
 
 WORKDIR /app
 
