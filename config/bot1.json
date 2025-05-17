@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "GamesPlayedWhileIdle": [
+    730,
+    1628760
+  ],
+  "SteamLogin": "ArusKEYDROP",
+  "AutoSteamSaleEvent": false,
+  "PlayingWhileIdle": true
+}

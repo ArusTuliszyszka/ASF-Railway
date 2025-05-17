@@ -1,0 +1,24 @@
+2025-05-17 23:06:21|ArchiSteamFarm-3180|INFO|ASF|InitCore() ArchiSteamFarm V6.1.5.2 (win-x64/3adb61fe0e0f4d5a9cd47f9324075a13 | .NET 9.0.4; win-x64; Microsoft Windows 10.0.26100) in [C:\Users\Arus\Desktop\Nowy folder]
+2025-05-17 23:06:21|ArchiSteamFarm-3180|INFO|ASF|InitCore() Copyright © 2015-2025 JustArchiNET
+2025-05-17 23:06:21|ArchiSteamFarm-3180|INFO|ASF|InitGlobalDatabaseAndServices() Wygląda na to, że jest to twoje pierwsze uruchomienie programu, zapraszamy!
+2025-05-17 23:06:31|ArchiSteamFarm-3180|WARN|ASF|InitGlobalDatabaseAndServices() Jeśli niepokoi Cię to, co w rzeczywistości robi ASF, zapoznaj się z naszą sekcją polityki prywatności na wiki!
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() Inicjowanie Plugins...
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() Ładowanie ItemsMatcherPlugin V6.1.5.2...
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() ItemsMatcherPlugin został załadowany pomyślnie!
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() Ładowanie MobileAuthenticatorPlugin V6.1.5.2...
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() MobileAuthenticatorPlugin został załadowany pomyślnie!
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() Ładowanie SteamTokenDumperPlugin V6.1.5.2...
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|InitPlugins() SteamTokenDumperPlugin został załadowany pomyślnie!
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|UpdateAndRestart() ASF automatycznie sprawdzi aktualizacje co 1 dzień.
+2025-05-17 23:06:38|ArchiSteamFarm-3180|INFO|ASF|UpdateASF() Wyszukiwanie nowej wersji...
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|ASF|UpdateASF() Lokalna wersja: 6.1.5.2 | Wersja zdalna: 6.1.5.2
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|ASF|OnASFInit() SteamTokenDumperPlugin jest obecnie wyłączony zgodnie z Twoją konfiguracją. Jeśli chciałbyś pomóc SteamDB w gromadzeniu danych, sprawdź naszą wiki.
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|ASF|StartInteractiveConsole() Interaktywna konsola jest teraz aktywna, wciśnij 'c', aby przejść do trybu poleceń.
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|ASF|Start() Uruchamianie serwera IPC...
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:1242
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Arus\Desktop\Nowy folder
+2025-05-17 23:06:39|ArchiSteamFarm-3180|INFO|ASF|Start() Serwer IPC jest gotowy!
+2025-05-17 23:06:39|ArchiSteamFarm-3180|WARN|ASF|RegisterBots() Brak zdefiniowanych botów. Czy ASF został pomyślnie skonfigurowany? Jeśli nie wiesz co zrobić, postępuj zgodnie z przewodnikiem na Wiki.
+2025-05-17 23:06:59|ArchiSteamFarm-3180|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
